@@ -1,0 +1,3 @@
+[submodule "School-Frontend"]
+	path = School-Frontend
+	url = https://github.com/grpansare/School-Frontend
