@@ -1,0 +1,11 @@
+Programming Assignment: Build a To-Do List App
+
+Instructions:
+
+Create a new Angular project using the Angular CLI.
+Implement a to-do list feature with the following functionalities:
+Add a new task with a title and description.
+Display the list of tasks with their titles and descriptions.
+Mark tasks as completed or remove them.
+Apply basic styling to the to-do list for a better user experience.
+Implement a service to manage the data for the to-do list.
